@@ -1,10 +1,13 @@
 ### Hi there 👋
-Hi my name is ber1y i am a young student who is self-learning. I like the network, programming and ethical hacking
-My two favorite programming languages are C# and Python and I even try to speak Russian (rust)
+Hi my name is ber1y i am a young student who is self-learning. I like the network🌐, programming and ethical hacking
+My two favorite programming languages are C# and Python and I even try to speak Russian❤ (rust👻)
 
-I also speak English and French
+English✅
+French✅✅
 
-- 🌱 I’m currently learning penetration testing
+- 🌱 I’m currently learning penetration testing👨‍💻
+
+Improving my skills, my knowledge are the daily tasks...✍
 
 <!--
 **Berthold-au/Berthold-au** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
