@@ -1,5 +1,7 @@
 ### Hi there 👋
-Hi my name is ber1y i am a young student who is self-learning. I like the network and programming.
+Hi my name is ber1y i am a young student who is self-learning. I like the network, programming and ethical hacking
+My two favorite programming languages are C# and Python and I even try to speak Russian (rust)
+
 - 🌱 I’m currently learning penetration testing
 
 <!--
