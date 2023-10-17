@@ -5,9 +5,11 @@ My two favorite programming languages are C# and Python and I even try to speak 
 English✅ French✅✅
 
 - 🌱 I’m currently learning penetration testing👨‍💻
-Mon profile TryHackMe <img src="https://tryhackme-badges.s3.amazonaws.com/Ber1y.png" alt="TryHackMe">
 
-Improving my skills, my knowledge are the daily tasks...✍
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Ber1y.png" alt="TryHackMe">
+
+Improving my skills, my knowledge are my daily tasks...✍
 
 <!--
 **Berthold-au/Berthold-au** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
