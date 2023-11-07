@@ -4,10 +4,10 @@ My two favorite programming languages are C# and Python and I even try to speak 
 
 English✅ French✅✅
 
-- 🌱 I’m currently learning penetration testing👨‍💻
+- 🌱 I’m currently learning penetration testing👨‍💻 ![https://tryhackme.com/p/Ber1y](TryHackMe)
+<img src="https://tryhackme-badges.s3.amazonaws.com/Ber1y.png" alt="TryHackMe">
 
 
-![https://tryhackme.com/p/Ber1y](<img src="https://tryhackme-badges.s3.amazonaws.com/Ber1y.png" alt="TryHackMe">)
 
 Improving my skills, my knowledge are my daily tasks...✍
 
