@@ -1,9 +1,8 @@
 ### Hi there 👋
-Hi my name is ber1y i am a young student who is self-learning. I like the network🌐, programming and ethical hacking
-My two favorite programming languages are C# and Python and I even try to speak Russian❤ (rust👻)
+English✅✅ French✅✅✅
 
-English✅ French✅✅
-
+- 👨‍💻 Back-end web developer
+- 🌐 System and network technician
 - 🌱 I’m currently learning penetration testing👨‍💻
 
 [<img src="https://tryhackme-badges.s3.amazonaws.com/Ber1y.png" alt="TryHackMe">](https://tryhackme.com/p/Ber1y)
