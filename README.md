@@ -3,7 +3,7 @@ English✅✅ French✅✅✅
 
 - 👨‍💻 Back-end web developer
 - 🌐 System and network technician
-- 🌱 Penetration tester👨‍💻
+- 🦅 Junior penetration tester
 
 [<img src="https://tryhackme-badges.s3.amazonaws.com/Ber1y.png" alt="TryHackMe">](https://tryhackme.com/p/Ber1y)
 
