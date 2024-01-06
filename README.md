@@ -1,12 +1,9 @@
 ### Hi there 👋
 English✅✅ French✅✅✅
 
-- 👨‍💻 Back-end web developer
+- 👨‍💻 Back-end developer
 - 🌐 System and network technician
 - 🦅 Junior penetration tester
-
-[<img src="https://tryhackme-badges.s3.amazonaws.com/Ber1y.png" alt="TryHackMe">](https://tryhackme.com/p/Ber1y)
-
 
 Improving my skills, my knowledge are my daily tasks...✍
 
