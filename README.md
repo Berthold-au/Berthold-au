@@ -1,7 +1,7 @@
 ### Hi there 👋
 English✅✅ French✅✅✅
 
-- 👨‍💻 Back-end developer
+- 👨‍💻 Back-end developer (C#/.NET | Python/Django | PHP/Laravel)
 - 🌐 System and network technician
 - 🦅 Junior penetration tester
 
